@@ -1,8 +1,8 @@
-# snake_python
-Juego de la serpiente
+# Snake
 
 ¡Todavía te acuerdas del clásico juego de Snake?
 
+Este proyecto esta creado en el lenguaje de programación Python.
 
  <img src="./snake.png">
 
