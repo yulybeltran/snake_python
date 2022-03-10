@@ -1,6 +1,6 @@
 # Snake
 
-¡Todavía te acuerdas del clásico juego de Snake?
+¿Todavía te acuerdas del clásico juego de Snake?
 
 Este proyecto esta creado en el lenguaje de programación Python.
 
