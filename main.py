@@ -7,8 +7,8 @@ from scoreboard import ScoreBoard
 #Creación del tablero de el juego
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.bgcolor("black")
-screen.title("Programate snake game")
+screen.bgcolor("red")
+screen.title("Programáte snake game")
 
 screen.tracer(0)
 
