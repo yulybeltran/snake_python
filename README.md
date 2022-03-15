@@ -6,7 +6,8 @@ Este proyecto esta creado en el lenguaje de programación Python.
 
  <img src="./snake.png">
 
-
+## Iniciar proyecto
+python main.py
 
 ## Creado por
 
